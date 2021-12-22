@@ -15,7 +15,7 @@
                 <Env.APP_PROFILE>dev</Env.APP_PROFILE>
                 <Env.DATABASE_URL>jdbc:postgresql://localhost:5432/dsvendas</Env.DATABASE_URL>
                 <Env.DATABASE_USER>postgres</Env.DATABASE_USER>
-                <Env.DATABASE_PASSWORD>gtc27061</Env.DATABASE_PASSWORD>
+                <Env.DATABASE_PASSWORD>123456</Env.DATABASE_PASSWORD>
                 
             </properties>
         </action>
